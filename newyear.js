@@ -37,7 +37,7 @@ var winWidth = window.innerWidth;
 var snowy = Snowy({
         addIn: 'snow',
         width: '100%',
-        height: 180,
+        height: 680,
         cell: pointerEvents().browser ? 100 : 90,
         maxCell: pointerEvents().browser ? 80 : 1000,
         browser: pointerEvents().browser,
